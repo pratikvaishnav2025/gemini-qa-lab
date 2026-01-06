@@ -1,0 +1,5 @@
+{
+  "name": "DevPort - AI-Powered SDET Portfolio",
+  "description": "A modern, high-performance portfolio for Java Backend & SDET engineers, featuring AI-driven test generation and code analysis using Gemini 3 Flash.",
+  "requestFramePermissions": []
+}

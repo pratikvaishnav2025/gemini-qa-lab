@@ -1,0 +1,15 @@
+server:
+  port: 8080
+  tomcat:
+    connection-timeout: 30s
+
+gemini:
+  api:
+    key: ${GEMINI_API_KEY}
+
+spring:
+  main:
+    banner-mode: "off"
+  jackson:
+    serialization:
+      indent_output: true
